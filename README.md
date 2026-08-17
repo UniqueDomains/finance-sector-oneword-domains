@@ -16,7 +16,7 @@ This selection covers 181,508 one-word domain names relevant to finance, spannin
 
 **Public extract:** 1,000 rows · **Live catalog:** 188,475 domains · **Median ask:** $760.37 · **High-demand under $2,500:** 627
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/finance`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| dues.broker      | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| pay.healthcare   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| firm.shop        | premium   | $625      | —             | high           | low    | 4      | name.com          |
-| dues.capital     | available | $9.99     | —             | high           | low    | 4      | name.com          |
-| pay.one          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| lend.shop        | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
-| dues.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com          |
-| city.apartments  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC       |
-| ties.bid         | premium   | $125      | —             | medium         | low    | 4      | name.com          |
-| dues.feedback    | available | $15.99    | —             | high           | low    | 4      | name.com          |
-| debt.law         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
-| ties.cfd         | premium   | $22.40    | $44.80        | medium         | low    | 4      | namecheap         |
-| dues.free        | available | $38.99    | $38.99        | high           | low    | 4      | namesilo          |
+| bond.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap         |
+| web.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| fee.shop         | premium   | $2,500    | —             | high           | low    | 3      | name.com          |
+| dues.llc         | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| city.shop        | premium   | $12,500   | —             | high           | medium | 4      | name.com          |
+| dues.ltd         | available | $9.99     | —             | high           | low    | 4      | name.com          |
+| fees.money       | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
+| firm.investments | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
+| dues.rent        | available | $17.99    | $59.99        | high           | low    | 4      | namesilo          |
+| firm.finance     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| firm.loan        | premium   | $1,107    | $116          | high           | low    | 4      | namesilo          |
+| dues.solutions   | available | $5.99     | —             | high           | low    | 4      | name.com          |
+| fund.management  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| fund.financial   | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
+| dues.trading     | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
+| fund.investments | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| firm.loans       | available | $19.99    | —             | high           | low    | 4      | name.com          |
 | fund.travel      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
-| ties.forum       | premium   | $87.50    | —             | medium         | low    | 4      | name.com          |
-| dues.fund        | available | $15.99    | —             | high           | low    | 4      | name.com          |
-| asset.co         | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC  |
-| ties.luxe        | premium   | $1,000    | —             | medium         | low    | 4      | name.com          |
-| dues.loans       | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| loans.bid        | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

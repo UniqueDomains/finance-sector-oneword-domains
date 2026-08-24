@@ -16,7 +16,7 @@ This selection covers 181,508 one-word domain names relevant to finance, spannin
 
 **Public extract:** 1,000 rows · **Live catalog:** 197,793 domains · **Median ask:** $738.93 · **High-demand under $2,500:** 652
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/finance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| fee.capital     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| firm.marketing  | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| and.investments | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
-| fee.loans       | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| trade.online    | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc                                        |
-| fee.cash        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| fee.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| fee.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| fee.financial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| card.financial  | available | $29.99    | —             | medium         | medium | 4      | name.com                                                  |
-| pay.capital     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| fee.fund        | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| dues.financial  | available | $29.99    | —             | high           | low    | 4      | name.com                                                  |
-| pay.finance     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| fee.loan        | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| dues.loan       | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| pay.ventures    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| pay.investments | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
-| duty.finance    | available | $15.99    | —             | medium         | low    | 4      | name.com                                                  |
-| tax.bond        | resell    | —         | —             | high           | medium | 3      | Dynadot LLC                                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| fee.loans        | available | $19.99    | —             | high           | low    | 3      | name.com              |
+| web.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC           |
+| fee.cash         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo              |
+| bond.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
+| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC          |
+| fee.financial    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo              |
+| debt.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
+| bank.group       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| fee.loan         | premium   | $625      | —             | high           | low    | 3      | name.com              |
+| dues.estate      | available | $14.99    | —             | high           | low    | 4      | name.com              |
+| firm.finance     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC          |
+| fee.shop         | premium   | $2,500    | —             | high           | low    | 3      | name.com              |
+| dues.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo              |
+| fund.finance     | resell    | —         | —             | high           | low    | 4      | Ledl.net GmbH & Co KG |
+| pay.investments  | premium   | $242      | $242          | high           | medium | 3      | namesilo              |
+| dues.investments | available | $14.99    | —             | high           | low    | 4      | name.com              |
+| fund.management  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| tax.cash         | premium   | $500      | —             | high           | medium | 3      | name.com              |
+| dues.ltd         | available | $9.99     | —             | high           | low    | 4      | name.com              |
+| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

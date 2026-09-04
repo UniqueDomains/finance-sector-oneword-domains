@@ -1,10 +1,10 @@
-# One-Word Finance Domain Names (506 TLDs) (200,826)
+# One-Word Finance Domain Names (506 TLDs) (203,151)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-200%2C826%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-203%2C151%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 181,508 one-word domain names relevant to finance, spanning 506 TLDs. The median ask across the set is $811, giving a quick read on typical pricing before deeper comparison. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **200,826 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **203,151 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 200,826 domains · **Median ask:** $728.59 · **High-demand under $2,500:** 652
+**Public extract:** 1,000 rows · **Live catalog:** 203,151 domains · **Median ask:** $722.79 · **High-demand under $2,500:** 680
 
 **Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/sector/finance`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| fee.capital     | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
-| firm.marketing  | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
-| and.investments | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
-| fee.loans       | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| trade.online    | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc                                        |
-| fee.bond        | premium   | $87.47    | $188.16       | high           | low    | 3      | namesilo                                                  |
-| fee.ventures    | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| fee.co          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| fee.cash        | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| card.financial  | available | $29.99    | —             | medium         | medium | 4      | name.com                                                  |
-| pay.capital     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
-| fee.financial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| debt.ventures   | available | $19.99    | —             | high           | low    | 4      | name.com                                                  |
-| pay.finance     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
-| fee.fund        | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| duty.finance    | available | $15.99    | —             | medium         | low    | 4      | name.com                                                  |
-| pay.ventures    | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| fee.loan        | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| duty.financial  | available | $29.99    | —             | medium         | low    | 4      | name.com                                                  |
-| tax.bond        | resell    | —         | —             | high           | medium | 3      | Dynadot LLC                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| dues.accountant | available | $23.59    | $23.59        | high           | low    | 4      | namesilo          |
+| pay.healthcare  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| firm.shop       | premium   | $625      | —             | high           | low    | 4      | name.com          |
+| dues.fund       | available | $15.99    | —             | high           | low    | 4      | name.com          |
+| pay.one         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| lend.shop       | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
+| dues.loans      | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| debt.law        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| list.shop       | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
+| dues.money      | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| fund.travel     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
+| ties.cfd        | premium   | $22.40    | $44.80        | medium         | low    | 4      | namecheap         |
+| dues.place      | available | $22.49    | $22.49        | high           | low    | 4      | namesilo          |
+| loans.bid       | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
+| ties.forsale    | premium   | $123.75   | —             | medium         | low    | 4      | name.com          |
+| flow.giving     | available | $5.99     | —             | high           | medium | 4      | name.com          |
+| loans.cc        | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC  |
+| gains.loan      | premium   | $437.50   | —             | medium         | low    | 5      | name.com          |
+| paid.loans      | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap         |
+| loans.cloud     | resell    | —         | —             | medium         | low    | 5      | Dynadot, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 200,826 live domains                       |
+| 1,000-row public sample | 203,151 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 652 high-demand names under $2,500         |
+| Basic exported fields   | 680 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

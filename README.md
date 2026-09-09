@@ -1,10 +1,10 @@
-# One-Word Finance Domain Names (506 TLDs) (203,710)
+# One-Word Finance Domain Names (506 TLDs) (204,995)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-203%2C710%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-204%2C995%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 181,508 one-word domain names relevant to finance, spanning 506 TLDs. The median ask across the set is $811, giving a quick read on typical pricing before deeper comparison. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **203,710 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **204,995 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 203,710 domains · **Median ask:** $721.22 · **High-demand under $2,500:** 680
+**Public extract:** 1,000 rows · **Live catalog:** 204,995 domains · **Median ask:** $718.24 · **High-demand under $2,500:** 680
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/sector/finance`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bond.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap         |
-| web.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| fee.shop         | premium   | $2,500    | —             | high           | low    | 3      | name.com          |
-| dues.llc         | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
-| city.shop        | premium   | $12,500   | —             | high           | medium | 4      | name.com          |
-| dues.rent        | available | $17.99    | $59.99        | high           | low    | 4      | namesilo          |
-| fees.money       | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
-| firm.investments | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
-| dues.trading     | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| firm.finance     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
-| firm.loan        | premium   | $1,107    | $116          | high           | low    | 4      | namesilo          |
-| firm.loans       | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| fund.management  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| fund.financial   | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
-| firm.money       | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| list.shop        | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
-| ties.agency      | available | $7.99     | —             | medium         | low    | 4      | name.com          |
-| fund.travel      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| fee.loans        | available | $19.99    | —             | high           | low    | 3      | name.com              |
+| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC          |
+| fee.cash         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo              |
+| bond.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
+| bank.group       | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| fee.financial    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo              |
+| debt.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap             |
+| firm.finance     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC          |
+| fee.loan         | premium   | $625      | —             | high           | low    | 3      | name.com              |
+| dues.estate      | available | $14.99    | —             | high           | low    | 4      | name.com              |
+| flow.financial   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.       |
+| fee.shop         | premium   | $2,500    | —             | high           | low    | 3      | name.com              |
+| dues.finance     | available | $15.99    | —             | high           | low    | 4      | name.com              |
+| fund.finance     | resell    | —         | —             | high           | low    | 4      | Ledl.net GmbH & Co KG |
+| pay.investments  | premium   | $242      | $242          | high           | medium | 3      | namesilo              |
+| dues.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo              |
+| fund.management  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| tax.cash         | premium   | $500      | —             | high           | medium | 3      | name.com              |
+| dues.investments | available | $14.99    | —             | high           | low    | 4      | name.com              |
+| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 203,710 live domains                       |
+| 1,000-row public sample | 204,995 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 680 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

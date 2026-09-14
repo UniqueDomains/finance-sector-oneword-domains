@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bond.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap         |
+| dues.accountant  | available | $23.59    | $23.59        | high           | low    | 4      | namesilo          |
+| pay.healthcare   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| bill.creditcard  | premium   | $242      | $242          | medium         | low    | 4      | namesilo          |
+| dues.deal        | available | $38.99    | $38.99        | high           | low    | 4      | namesilo          |
 | pay.one          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| firm.investments | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
-| dues.gmbh        | available | $45.99    | $45.99        | high           | low    | 4      | namesilo          |
-| web.finance      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| firm.loan        | premium   | $1,107    | $116          | high           | low    | 4      | namesilo          |
-| firm.loans       | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| bank.football    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
 | firm.shop        | premium   | $625      | —             | high           | low    | 4      | name.com          |
-| firm.money       | available | $19.99    | —             | high           | low    | 4      | name.com          |
-| debt.law         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| dues.loans       | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| bill.investments | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc       |
 | lend.shop        | premium   | $2,500    | —             | high           | low    | 4      | name.com          |
-| paid.loans       | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap         |
-| firm.finance     | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| dues.money       | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| debt.law         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
 | list.shop        | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
-| ties.apartments  | available | $19.99    | —             | medium         | low    | 4      | name.com          |
-| fund.network     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC       |
-| save.shop        | premium   | $3,125    | —             | high           | low    | 4      | name.com          |
-| ties.auto        | available | $2,950    | —             | medium         | low    | 4      | namecheap         |
+| dues.place       | available | $22.49    | $22.49        | high           | low    | 4      | namesilo          |
 | fund.travel      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 33 |
+| ties.cfd         | premium   | $22.40    | $44.80        | medium         | low    | 4      | namecheap         |
+| flow.giving      | available | $5.99     | —             | high           | medium | 4      | name.com          |
+| asset.cards      | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
+| ties.forsale     | premium   | $123.75   | —             | medium         | low    | 4      | name.com          |
+| paid.loans       | available | $17.48    | $144.98       | medium         | low    | 4      | namecheap         |
+| loans.bid        | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

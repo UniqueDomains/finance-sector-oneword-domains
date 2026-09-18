@@ -1,10 +1,10 @@
-# One-Word Finance Domain Names (506 TLDs) (212,286)
+# One-Word Finance Domain Names (506 TLDs) (103,700)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-212%2C286%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-103%2C700%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 181,508 one-word domain names relevant to finance, spanning 506 TLDs. The median ask across the set is $811, giving a quick read on typical pricing before deeper comparison. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **212,286 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **103,700 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 212,286 domains · **Median ask:** $702.97 · **High-demand under $2,500:** 677
+**Public extract:** 1,000 rows · **Live catalog:** 103,700 domains · **Median ask:** $815.59 · **High-demand under $2,500:** 231
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/finance`
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | fund.ag         | resell    | —           | —             | high           | low    | 4      | Dynadot Inc                                  |
 | fund.autos      | premium   | $812.50     | —             | high           | low    | 4      | name.com                                     |
 | fund.auto       | available | $1,999.99   | $2,199        | high           | low    | 4      | namesilo                                     |
-| fund.agency     | resell    | —           | —             | high           | low    | 4      | Sav.com, LLC                                 |
+| fund.asia       | resell    | —           | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | fund.band       | premium   | $118.80     | $118.80       | high           | low    | 4      | namesilo                                     |
 | fund.bayern     | available | $34.99      | $34.99        | high           | low    | 4      | namesilo                                     |
-| fund.asia       | resell    | —           | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| fund.berlin     | resell    | —           | —             | high           | low    | 4      | —                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 212,286 live domains                       |
+| 1,000-row public sample | 103,700 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 677 high-demand names under $2,500         |
+| Basic exported fields   | 231 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Finance Domain Names (506 TLDs)*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

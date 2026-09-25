@@ -1,10 +1,10 @@
-# One-Word Finance Domain Names (506 TLDs) (74,560)
+# One-Word Finance Domain Names (506 TLDs) (65,671)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-74%2C560%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C671%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 181,508 one-word domain names relevant to finance, spanning 506 TLDs. The median ask across the set is $811, giving a quick read on typical pricing before deeper comparison. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **74,560 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **65,671 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 74,560 domains · **Median ask:** $838.60 · **High-demand under $2,500:** 140
+**Public extract:** 1,000 rows · **Live catalog:** 65,671 domains · **Median ask:** $839.74 · **High-demand under $2,500:** 109
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/finance`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| credit.living    | premium   | $980       | $1,400        | high           | low    | 6      | namecheap        |
-| credit.solar     | resell    | —          | —             | high           | low    | 6      | Name.com, Inc.   |
-| bond.ryukyu      | available | $22.98     | —             | high           | low    | 4      | namecheap        |
-| loan.pro         | resell    | $9,568     | $33.99        | high           | high   | 4      | Porkbun LLC      |
-| loan.dev         | premium   | $1,623.75  | $1,623.75     | high           | high   | 4      | name.com         |
-| money.actor      | available | $19.99     | —             | high           | medium | 5      | name.com         |
-| money.audio      | resell    | $159.98    | —             | high           | medium | 5      | Namecheap        |
-| loan.ninja       | premium   | $520       | $520          | high           | high   | 4      | namecheap        |
-| money.apartments | available | $19.99     | —             | high           | medium | 5      | name.com         |
-| money.gmbh       | resell    | $47.99     | —             | high           | medium | 5      | IONOS SE         |
-| loan.online      | premium   | $7,812.50  | $31,250       | high           | high   | 4      | name.com         |
-| money.archi      | available | $24.99     | —             | high           | medium | 5      | name.com         |
-| banking.co       | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| loan.site        | premium   | $3,125     | $12,500       | high           | high   | 4      | name.com         |
-| money.auto       | available | $1,999.99  | $2,199        | high           | medium | 5      | namesilo         |
-| banking.me       | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
-| loan.space       | premium   | $3,250     | $13,000       | high           | high   | 4      | namecheap        |
-| money.barcelona  | available | $38.98     | —             | high           | medium | 5      | namecheap        |
-| banking.org      | resell    | $201,250   | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| loan.store       | premium   | $3,125     | $12,500       | high           | high   | 4      | name.com         |
+| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| credit.living  | premium   | $980       | $1,400        | high           | low    | 6      | namecheap        |
+| credit.solar   | resell    | —          | —             | high           | low    | 6      | Name.com, Inc.   |
+| bond.ryukyu    | available | $22.98     | —             | high           | low    | 4      | namecheap        |
+| loan.pro       | resell    | $9,568     | $33.99        | high           | high   | 4      | Porkbun LLC      |
+| coin.autos     | premium   | $2,500     | $2,500        | high           | medium | 4      | name.com         |
+| coin.auto      | available | $1,999.99  | $2,199        | high           | medium | 4      | namesilo         |
+| money.gmbh     | resell    | $47.99     | —             | high           | medium | 5      | IONOS SE         |
+| coin.diy       | premium   | $218.75    | $312.50       | high           | medium | 4      | name.com         |
+| coin.futbol    | available | $5.98      | $21.98        | high           | medium | 4      | namecheap        |
+| banking.co     | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| coin.report    | premium   | $854       | $854          | high           | medium | 4      | namesilo         |
+| coin.tennis    | available | $65.99     | $65.99        | high           | medium | 4      | namesilo         |
+| banking.me     | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
+| lend.shop      | premium   | $2,500     | —             | high           | low    | 4      | name.com         |
+| paid.christmas | available | $1.80      | $49.98        | high           | low    | 4      | namecheap        |
+| banking.org    | resell    | $201,250   | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| loan.dev       | premium   | $1,623.75  | $1,623.75     | high           | high   | 4      | name.com         |
+| paid.college   | available | $5         | $81.98        | high           | low    | 4      | namecheap        |
+| pay.healthcare | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.  |
+| loan.ninja     | premium   | $520       | $520          | high           | high   | 4      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 74,560 live domains                        |
+| 1,000-row public sample | 65,671 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 140 high-demand names under $2,500         |
+| Basic exported fields   | 109 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

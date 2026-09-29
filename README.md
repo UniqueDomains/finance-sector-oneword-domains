@@ -1,10 +1,10 @@
-# One-Word Finance Domain Names (506 TLDs) (122,897)
+# One-Word Finance Domain Names (506 TLDs) (132,502)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-122%2C897%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-132%2C502%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 181,508 one-word domain names relevant to finance, spanning 506 TLDs. The median ask across the set is $811, giving a quick read on typical pricing before deeper comparison. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **122,897 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **132,502 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 122,897 domains · **Median ask:** $562.06 · **High-demand under $2,500:** 337
+**Public extract:** 1,000 rows · **Live catalog:** 132,502 domains · **Median ask:** $535.16 · **High-demand under $2,500:** 320
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/finance`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| fund.auto         | available | $1,863.20  | $2,064.20     | high           | low    | 4      | spaceship        |
-| banking.co        | resell    | $19,380.95 | $48.99        | high           | low    | 7      | GoDaddy.com, LLC |
-| fund.degree       | premium   | $242       | $242          | high           | low    | 4      | namesilo         |
-| fund.blackfriday  | available | $107.22    | $107.22       | high           | low    | 4      | dynadot          |
-| banking.me        | resell    | $7,015     | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
-| fund.events       | premium   | $207.20    | $207.20       | high           | low    | 4      | spaceship        |
-| fund.coupons      | available | $42.20     | $42.20        | high           | low    | 4      | cloudflare       |
-| capital.rich      | resell    | $94.99     | $1,999        | high           | medium | 7      | Dynadot Inc      |
-| fund.immo         | premium   | $78.54     | $78.54        | high           | low    | 4      | namesilo         |
-| fund.graphics     | available | $18.83     | $18.83        | high           | low    | 4      | spaceship        |
-| finance.dance     | resell    | $16.99     | $27.49        | high           | medium | 7      | namesilo         |
-| fund.inc          | premium   | $1,705     | $2,060.21     | high           | low    | 4      | dynadot          |
-| fund.restaurant   | available | $50.20     | $50.20        | high           | low    | 4      | cloudflare       |
-| financial.singles | resell    | $12.99     | —             | high           | low    | 9      | GoDaddy.com, LLC |
-| fund.investments  | premium   | $512       | $512          | high           | low    | 4      | namesilo         |
-| loan.berlin       | available | $79.98     | $89.98        | high           | low    | 4      | namecheap        |
-| financial.xxx     | resell    | $154.98    | —             | high           | low    | 9      | GoDaddy.com, LLC |
-| fund.loan         | premium   | $2,587.70  | $103.70       | high           | low    | 4      | spaceship        |
-| loan.blackfriday  | available | $114.99    | $114.99       | high           | low    | 4      | namesilo         |
-| investment.app    | resell    | $14,944.25 | $123.75       | high           | low    | 10     | Dynadot LLC.     |
+| domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fund.auto         | available | $1,863.20   | $2,064.20     | high           | low    | 4      | spaceship        |
+| banking.bio       | resell    | $9.99       | —             | high           | low    | 7      | name.com         |
+| fund.black        | premium   | $2,070.20   | $2,070.20     | high           | low    | 4      | spaceship        |
+| fund.cricket      | available | $20.18      | $20.18        | high           | low    | 4      | cloudflare       |
+| banking.me        | resell    | $7,015      | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
+| fund.care         | premium   | $512        | $512          | high           | low    | 4      | namesilo         |
+| fund.hockey       | available | $62.98      | $72.98        | high           | low    | 4      | namecheap        |
+| banking.money     | resell    | $128.70     | $128.70       | high           | low    | 7      | namecheap        |
+| fund.careers      | premium   | $520        | $520          | high           | low    | 4      | namecheap        |
+| fund.paris        | available | $66.98      | $66.98        | high           | low    | 4      | namecheap        |
+| finance.dance     | resell    | $16.99      | $27.49        | high           | medium | 7      | namesilo         |
+| fund.diamonds     | premium   | $242        | $242          | high           | low    | 4      | namesilo         |
+| fund.vacations    | available | $38.99      | $38.99        | high           | low    | 4      | namesilo         |
+| financial.singles | resell    | $12.99      | —             | high           | low    | 9      | GoDaddy.com, LLC |
+| fund.investments  | premium   | $512        | $512          | high           | low    | 4      | namesilo         |
+| loan.army         | available | $18.99      | $39.99        | high           | low    | 4      | namesilo         |
+| investment.cloud  | resell    | $112        | $140          | high           | low    | 10     | Dynadot, LLC     |
+| fund.loan         | premium   | $2,587.70   | $103.70       | high           | low    | 4      | spaceship        |
+| loan.bayern       | available | $34.99      | $34.99        | high           | low    | 4      | namesilo         |
+| investment.io     | resell    | $250,698.85 | $59.99        | high           | low    | 10     | Divido Ltd       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 122,897 live domains                       |
+| 1,000-row public sample | 132,502 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 337 high-demand names under $2,500         |
+| Basic exported fields   | 320 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

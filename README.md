@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| fund.cheap       | available | $5.38       | $29.18        | high           | low    | 4      | spaceship                                               |
-| money.actor      | resell    | $19.99      | —             | high           | high   | 5      | NameCheap, Inc.                                         |
-| fund.bargains    | premium   | $78.54      | $78.54        | high           | low    | 4      | namesilo                                                |
-| fund.gratis      | available | $18.83      | $18.83        | high           | low    | 4      | spaceship                                               |
-| stock.co         | resell    | $345,000    | $48.99        | high           | medium | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| fund.dealer      | premium   | $4,278      | $2,660        | high           | low    | 4      | namesilo                                                |
-| money.car        | available | $1,863.20   | $2,064.20     | high           | high   | 5      | spaceship                                               |
-| finance.dance    | resell    | $16.99      | $27.49        | high           | medium | 7      | NameCheap, Inc.                                         |
-| fund.investments | premium   | $512        | $512          | high           | low    | 4      | namesilo                                                |
-| money.hiv        | available | $184.90     | $184.90       | high           | high   | 5      | spaceship                                               |
-| financial.xxx    | resell    | $154.98     | —             | high           | medium | 9      | GoDaddy.com, LLC                                        |
-| fund.loan        | premium   | $2,587.70   | $103.70       | high           | low    | 4      | spaceship                                               |
-| money.kim        | available | $5.38       | $18.83        | high           | high   | 5      | spaceship                                               |
-| investment.cloud | resell    | $112        | $140          | high           | medium | 10     | Dynadot, LLC                                            |
-| loan.industries  | premium   | $118.80     | $118.80       | high           | low    | 4      | namesilo                                                |
-| money.memorial   | available | $41.60      | $41.60        | high           | high   | 5      | spaceship                                               |
-| investment.io    | resell    | $250,698.85 | $59.99        | high           | medium | 10     | Divido Ltd                                              |
-| loan.llc         | premium   | $2,660      | $2,660        | high           | low    | 4      | namesilo                                                |
-| money.vana       | available | $2,070.20   | $2,070.20     | high           | high   | 5      | spaceship                                               |
-| bank.money       | resell    | —           | —             | high           | medium | 4      | 1API GmbH                                               |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| fund.auto         | available | $1,863.20 | $2,064.20     | high           | low    | 4      | spaceship        |
+| banking.bio       | resell    | $9.99     | —             | high           | low    | 7      | name.com         |
+| fund.immo         | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo         |
+| fund.paris        | available | $66.98    | $66.98        | high           | low    | 4      | namecheap        |
+| banking.me        | resell    | $7,015    | $26.99        | high           | low    | 7      | Spaceship, Inc.  |
+| fund.investments  | premium   | $512      | $512          | high           | low    | 4      | namesilo         |
+| money.auto        | available | $1,863.20 | $2,064.20     | high           | high   | 5      | spaceship        |
+| banking.money     | resell    | $128.70   | $128.70       | high           | low    | 7      | namecheap        |
+| fund.loan         | premium   | $2,587.70 | $103.70       | high           | low    | 4      | spaceship        |
+| money.flowers     | available | $93.35    | $103.40       | high           | high   | 5      | spaceship        |
+| banking.org       | resell    | $201,250  | $21.99        | high           | low    | 7      | GoDaddy.com, LLC |
+| fund.ngo          | premium   | $650      | $325          | high           | low    | 4      | namecheap        |
+| money.immobilien  | available | $8.24     | $32.32        | high           | high   | 5      | dynadot          |
+| finance.dance     | resell    | $16.99    | $27.49        | high           | medium | 7      | NameCheap, Inc.  |
+| loan.accountant   | premium   | $640      | $77.35        | high           | low    | 4      | namesilo         |
+| money.reise       | available | $75.20    | $75.20        | high           | high   | 5      | cloudflare       |
+| financial.singles | resell    | $12.99    | —             | high           | medium | 9      | GoDaddy.com, LLC |
+| loan.condos       | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
+| money.tennis      | available | $50.20    | $50.20        | high           | high   | 5      | cloudflare       |
+| investment.cloud  | resell    | $112      | $140          | high           | medium | 10     | Dynadot, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
